@@ -6,7 +6,7 @@
 
 # Grid View for MVC - How to export multiple grids into a single print document
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3891/)**
+**[[Run Online]](https://codecentral.devexpress.com/128551526/)**
 <!-- run online end -->
 
 This example shows how to use the XtraPrinting library to export several MVC [GridView](https://docs.devexpress.com/AspNetMvc/8966/components/grid-view) Extensions into a single XLS document.
