@@ -59,7 +59,7 @@ You can export several grids into a single document in the following way:
 * [How to Show Detail Information in a Separate Grid](https://github.com/DevExpress-Examples/aspxgridview-show-detail-information-in-separate-grid)
 * [How to combine a number of ASPxGridView documents in one when exporting](https://github.com/DevExpress-Examples/how-to-combine-a-number-of-aspxgridview-documents-in-one-when-exporting-e1535)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-export-multiple-gridviews-into-a-document&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-export-multiple-gridviews-into-a-document&~~~was_helpful=no)
 
